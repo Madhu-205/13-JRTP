@@ -11,6 +11,7 @@ public class App01Application {
 		ConfigurableApplicationContext context = SpringApplication.run(App01Application.class, args);
 		//status for his-134
 		System.out.println("madhu");
+             int a=10;
 	}
 
 }
